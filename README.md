@@ -8,6 +8,17 @@ I specialize in designing **data models, BI solutions, and dashboards** that tur
 
 ---
 
+## 📊 GitHub Stats  
+
+<div style="display: flex; justify-content: space-between;">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=DLCheruiyot&show_icons=true&theme=default" height="180">
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DLCheruiyot&layout=compact" height="180">
+
+</div>
+
+
 ## 🔹 Featured Project  
 
 ### [smb_bi_etl_pipeline](https://github.com/DLCheruiyot/SMB_2_Anonymized)  
