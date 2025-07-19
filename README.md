@@ -22,7 +22,7 @@ I specialize in designing **data models, BI solutions, and dashboards** that tur
 ## 🔹 Featured Project  
 
 ### [smb_bi_etl_pipeline](https://github.com/DLCheruiyot/SMB_2_Anonymized) 
-![Dashboard Preview](https://raw.githubusercontent.com/DLCheruiyot/smb_bi_etl_pipeline/main/screenshots/email_engagement_snapshot.png)
+![Dashboard Preview](https://raw.githubusercontent.com/DLCheruiyot/smb_bi_etl_pipeline/main/screenshots/SMB_2_Email_Mktg.jpg)
 
 **Tech stack:** SQL Server, T-SQL, Power BI  
 - Built an **end-to-end BI & ETL pipeline** integrating sales, finance & marketing data  
