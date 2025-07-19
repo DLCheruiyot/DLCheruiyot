@@ -23,7 +23,7 @@ I specialize in designing **data models, BI solutions, and dashboards** that tur
 
 ### [smb_bi_etl_pipeline](https://github.com/DLCheruiyot/SMB_2_Anonymized) 
 ![Dashboard Preview](https://raw.githubusercontent.com/DLCheruiyot/smb_bi_etl_pipeline/main/screenshots/SMB_2_Email%20Mktg%20Metrics.jpg)
-Email Marketing Metrics Dashboard built in Power BI, highlighting campaign ROI, engagement, and channel performance.
+_Email Marketing Metrics Dashboard built in Power BI, highlighting campaign ROI, engagement, and channel performance.
 
 **Tech stack:** SQL Server, T-SQL, Power BI  
 - Built an **end-to-end BI & ETL pipeline** integrating sales, finance & marketing data  
