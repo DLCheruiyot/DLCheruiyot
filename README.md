@@ -19,6 +19,8 @@ I specialize in designing **data models, BI solutions, and dashboards** that tur
 
 *I’m also interested in leveraging BI and analytics to support community-driven and civic tech initiatives, creating data solutions that improve services and social impact.*  
 
+*More Projects Coming Soon.*  
+
 ---
 
 ## 🛠️ Tools & Technologies  
