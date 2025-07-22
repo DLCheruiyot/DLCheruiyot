@@ -47,7 +47,7 @@ I specialize in designing **data models, BI solutions, and dashboards** that tur
 
 ## 📫 Let’s Connect  
 
-- **LinkedIn:**(www.linkedin.com/in/cheruiyotdaniel)   
+- [**LinkedIn**](www.linkedin.com/in/cheruiyotdaniel)   
 
 ---
 
