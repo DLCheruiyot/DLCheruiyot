@@ -39,7 +39,7 @@ I specialize in designing **data models, BI solutions, and dashboards** that tur
 
 ## 🛠️ Tools & Technologies  
 
-- **Data & BI:** SQL Server | SSMS | Power BI | Tableau  
+- **Data & BI:** SQL Server | SSMS | Power BI | Tableau | Excel | Google Sheets  
 - **Data Modeling & Architecture:** ERD | DFD | Data Warehousing  
 - **Documentation & Collaboration:** Jira | Confluence | Visio | Figma  
 
